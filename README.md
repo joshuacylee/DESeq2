@@ -1,5 +1,5 @@
 # DESeq2
-R Script for differential gene expression identification using featuresCount count matrix.DESeq2 data table.
+R Script for differential gene expression identification using featuresCount count matrix.
 
 input: 
 i) featuresCount count matrix (Tab-delimited .txt)
