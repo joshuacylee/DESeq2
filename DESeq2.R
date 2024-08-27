@@ -1,4 +1,4 @@
-# Gene-level differential expression analysis using DESeq2, including RIN as covariate
+# Gene-level differential expression analysis using DESeq
 ##Load libraries
 library(DESeq2)
 library(tidyverse)
